@@ -1,0 +1,277 @@
+
+@import "tailwindcss";
+@plugin "tailwindcss/plugin";
+/*  Import Tailwind Directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*  Import Tailwind Custom CSS Variables  */
+@theme{
+
+  /* Breakpoints */
+  --screen-sm:   640px;
+  --screen-md:   768px;
+  --screen-lg:   1024px;
+  --screen-xl:   1280px;
+  --screen-2xl:  1536px;
+
+
+  /* Colors */
+  --color-primary: #f50963 !important;
+  --color-muted: #6B7280 !important;
+  --color-secondary: #0A111E !important;
+  --color-hero:#f0f2ee !important;
+  --color-dashboard:#f0f4f8 !important;
+
+  /* Font sizes */
+  --text-8px:              8px;
+  --text-9px:              9px;
+  --text-10px:             10px;
+  --text-11px:             11px;
+  --text-xs:               0.75rem;    /* 12px */
+  --text-13px:             13px;
+  --text-sm:               0.875rem;   /* 14px */
+  --text-15px:             15px;
+  --text-base:             1rem;       /* 16px */
+  --text-lg:               1.125rem;   /* 18px */
+  --text-xl:               1.25rem;    /* 20px */
+  --text-2xl:              1.5rem;     /* 24px */
+  --text-3xl:              1.875rem;   /* 30px */
+  --text-4xl:              2.25rem;    /* 36px */
+  --text-5xl:              3rem;       /* 48px */
+  --text-6xl:              4rem;       /* 64px */
+
+  /* Spacing (general) */
+  --space-1:               0.25rem;    /* 4px */
+  --space-2:               0.5rem;     /* 8px */
+  --space-3:               0.75rem;    /* 12px */
+  --space-4:               1rem;       /* 16px */
+  --space-5:               1.25rem;    /* 20px */
+  --space-6:               1.5rem;     /* 24px */
+  --space-8:               2rem;       /* 32px */
+  --space-10:              2.5rem;     /* 40px */
+  --space-12:              3rem;       /* 48px */
+  --space-16:              4rem;       /* 64px */
+  --space-20:              5rem;       /* 80px */
+  --space-24:              6rem;       /* 96px */
+  --space-32:              8rem;       /* 128px */
+
+  /* Padding specifics */
+  --padding-xs:            0.5rem;     /* 8px */
+  --padding-sm:            1rem;       /* 16px */
+  --padding-md:            1.5rem;     /* 24px */
+  --padding-lg:            2rem;       /* 32px */
+  --padding-45px:          45px;        /* 45px */
+  --padding-xl:            3rem;       /* 48px */
+  --padding-100px:         100px;      /* 100px */
+
+  /* Margin specifics */
+  --margin-2px:            0.125rem;   /* 2px */
+  --margin-4px:            0.25rem;    /* 4px */
+  --margin-xs:             0.5rem;     /* 8px */
+  --margin-sm:             1rem;       /* 16px */
+  --margin-md:             1.5rem;     /* 24px */
+  --margin-lg:             2rem;       /* 32px */
+  --margin-xl:             3rem;       /* 48px */
+
+
+  /* Fonts */
+  --font-body: 'Space Grotesk', sans-serif;
+  --font-heading: "Bai Jamjuree", sans-serif;
+
+  /* Font Weights */
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* Border Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+
+
+  /* Shadows */
+  --shadow-card: 0 4px 8px rgba(0, 0, 0, 0.08);
+
+  /* Z-index */
+  --z-popup: 9999;
+
+  /* Transitions */
+  --transition-nav:        background-color, box-shadow, transform;
+  --duration-300:          300ms;
+}
+/* custom scroll padding to avoid the consumption of top part of sections under the header navbar while scrolling to anchor links */
+html {
+	scroll-padding-top: 90px;
+}
+
+
+@layer base{
+}
+
+@layer components{
+  .text-btn{
+    @apply text-13px font-semibold text-black hover:text-primary active:text-primary cursor-pointer focus:text-primary;
+  }
+  .btn-outline-primary{
+    @apply border-1 hover:shadow-lg cursor-pointer md:border-2 border-primary text-black py-2 lg:py-2.5 justify-center items-center font-regular md:font-medium px-4 rounded-md hover:bg-primary hover:text-white active:bg-primary active:text-white focus:bg-primary focus:text-white;
+  }
+  .btn-primary{
+    @apply bg-primary hover:bg-pink-700 transition-transform cursor-pointer hover:scale-[1.02] text-white py-2 lg:py-2.5 justify-center items-center font-regular md:font-medium px-4 rounded-xl;
+  }
+}
+@layer utilities{
+  .primary{
+    color: var(--color-primary);
+  }
+  .text-primary{
+    color: var(--color-primary);
+  }
+  .bg-primary{
+    background-color: var(--color-primary);
+  }
+  .border-primary{
+    border-color: var(--color-primary);
+  }
+  .bg-secondary{
+    background-color: var(--color-secondary);
+  }
+  
+}
+
+
+
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+
+.body{
+  	font-family: var(--font-body) !important; /* Apply Space Grotesk with sans-serif fallback */
+}
+
+
+h1,
+h2{
+  font-family: var(--font-heading) !important; /* Apply Roboto */
+	padding: 0;
+	margin: 0;
+	color: #e6e6e6 !important;
+}
+h5,h4,h3,h6{
+  font-family: var(--font-heading) !important; /* Apply Bai Jamjuree */
+}
+p,span,ul{
+  font-family: var(--font-body);
+}
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+/*  .container: centered, max-width at each breakpoint */
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--padding-sm);
+  padding-right: var(--padding-sm);
+}
+
+/*  .container-fluid: always full width, with optional padding */
+.container-fluid {
+  width: 100%;
+  padding-left: var(--padding-sm);
+  padding-right: var(--padding-sm);
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* 4) Full-screen container: spans entire viewport */
+.container-screen {
+  width: 100vw;     /* full viewport width */
+  height: 100vh;    /* full viewport height */
+  margin: 0;        /* no auto-centering */
+  padding: 0;       /* you can override if you like */
+  position: relative;
+  overflow: hidden; /* optional, if you don’t want scrollbars */
+}
+
+
+
+/*  */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-20px) rotate(2deg); }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out forwards;
+}
+
+.animate-fade-in.delay-100 {
+  animation-delay: 0.1s;
+}
+
+.animate-float {
+  animation: float 8s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float 8s ease-in-out infinite 2s;
+}
+
+/*  */
+/* order-confirmation scroll  */
+.order-summary-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.order-summary-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.order-summary-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--color-primary);
+  border-radius: 10px;
+}
+
+.order-summary-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+/*  */
+/* checkout scroll */
+.checkout-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.checkout-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.checkout-scrollbar::-webkit-scrollbar-thumb {
+  background: var(--color-primary);
+  border-radius: 10px;
+}
+
+.checkout-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/*  */
