@@ -1,0 +1,1990 @@
+{
+  "allproducts": [
+    {
+      "id": "1",
+      "name": "MSI PRO MP225 21.5 FHD IPS Monitor",
+      "price": 7909.03,
+      "originalPrice": 875.03,
+      "sale": true,
+      "salePercent": 16,
+      "salesCount": 150,
+      "rating": 4.5,
+      "releaseDate": "2025-02-10",
+      "image": "/images/laptop/monitor.png",
+      "categoryId": {
+        "id": 1,
+        "name": "Monitors",
+        "image": "/images/laptop/monitor.png"
+      },
+      "tabs": [
+        "top-rated",
+        "best-selling",
+        "latest-product",
+        "on-discount"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/home/pcCategory/demo.png"
+      ],
+      "productDetails": " Msi pro this product is best for you to use , and you can get it for free",
+      "badges": "Out Of Stock",
+      "sku": "MP225-21.5-FHD-IPS",
+      "estimatedDelivery": "23 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 7000,
+      "shippingCost": "Free",
+      "category": "Monitor",
+      "tags": [
+        "Gaming PC",
+        "Laptops",
+        "Mini PC"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Ankit Narayan",
+          "date": "2020-12-04",
+          "rating": 5,
+          "description": "First I bought size S…now after I ordered size L it is perfect",
+          "likes": 14,
+          "dislikes": 1,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Zoro",
+          "date": "2022-08-29",
+          "rating": 4,
+          "description": "Loved it…only thing I am upset I can’t wear it casually ?? ❤️",
+          "likes": 1,
+          "dislikes": 0,
+          "images": [
+            "/images/laptop/monitor.png"
+          ]
+        },
+        {
+          "reviewId": "r3",
+          "userName": "Debdeep Sen",
+          "date": "2024-02-12",
+          "rating": 5,
+          "description": "I bought this panjabi from Myntra and it is simply awesome…",
+          "likes": 1,
+          "dislikes": 1,
+          "images": [
+            "/images/laptop/monitor.png",
+            "/images/home/pcCategory/demo.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "HP OMEN 16 Gaming Laptop",
+      "price": 579,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 320,
+      "rating": 5.2,
+      "releaseDate": "2024-11-05",
+      "image": "/images/laptop/mini-pc/5.avif",
+      "categoryId": {
+        "id": 1,
+        "name": "Monitors",
+        "image": "/images/laptop/monitor.png"
+      },
+      "tabs": [
+        "best-selling"
+      ],
+      "sliderImages": [
+        "/images/home/pcCategory/monitor2.avif",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "Powerful AMD Ryzen processor, dedicated NVIDIA GPU, RGB keyboard. Lorem ipsum is a dummy or placeholder text commonly used in graphic design, publishing, and web development. Its purpose is to permit a page layout to be",
+      "badges": "25 In Stock",
+      "sku": "HP-OMEN-16-2024",
+      "estimatedDelivery": "10 - 16 jun, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 500,
+      "shippingCost": 40,
+      "category": "Laptops",
+      "tags": [
+        "Gaming Laptop",
+        "HP OMEN",
+        "High Performance"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Sneha Patel",
+          "date": "2025-05-01",
+          "rating": 5,
+          "description": "Superb power and cooling—runs all my games smoothly!",
+          "likes": 25,
+          "dislikes": 2,
+          "images": [
+            "/images/home/pcCategory/monitor2.avif",
+            "/images/home/pcCategory/demo.png"
+          ]
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Ravi Kumar",
+          "date": "2025-03-15",
+          "rating": 4,
+          "description": "Great performance but battery life could be better.",
+          "likes": 8,
+          "dislikes": 1,
+          "images": [
+            "/images/laptop/mini-pc/5.avif"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Samsung Odyssey G3 Gaming Monitor",
+      "price": 1650,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 500,
+      "rating": 4.8,
+      "releaseDate": "2021-09-24",
+      "image": "/images/home/pcCategory/monitor2.avif",
+      "categoryId": {
+        "id": 1,
+        "name": "Monitors",
+        "image": "/images/laptop/monitor.png"
+      },
+      "tabs": [
+        "top-rated",
+        "latest-product"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "27” FHD, 144Hz refresh rate, 1ms response time for seamless gaming.",
+      "badges": "10 In Stock",
+      "sku": "SMS-ODY-G3-27",
+      "estimatedDelivery": "22 - 26 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 1500,
+      "shippingCost": "Free",
+      "category": "Monitor",
+      "tags": [
+        "Gaming Monitor",
+        "Samsung Odyssey",
+        "144Hz"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Priya Singh",
+          "date": "2024-12-10",
+          "rating": 5,
+          "description": "Absolutely love the smoothness and color accuracy!",
+          "likes": 33,
+          "dislikes": 4,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Arjun Mehta",
+          "date": "2023-11-05",
+          "rating": 4,
+          "description": "Very good monitor but stand height is a bit low.",
+          "likes": 12,
+          "dislikes": 3,
+          "images": [
+            "/images/home/pcCategory/monitor2.avif",
+            "/images/laptop/mini-pc/6.avif"
+          ]
+        },
+        {
+          "reviewId": "r3",
+          "userName": "Sneha Patel",
+          "date": "2024-08-20",
+          "rating": 5,
+          "description": "Great value for money—no dead pixels and very crisp visuals.",
+          "likes": 18,
+          "dislikes": 1,
+          "images": []
+        },
+        {
+          "reviewId": "r4",
+          "userName": "Karan Verma",
+          "date": "2024-07-15",
+          "rating": 4,
+          "description": "Good monitor but wish the menu settings were more intuitive.",
+          "likes": 7,
+          "dislikes": 2,
+          "images": []
+        },
+        {
+          "reviewId": "r5",
+          "userName": "Anjali Rao",
+          "date": "2024-06-08",
+          "rating": 5,
+          "description": "Perfect for competitive gaming, zero ghosting even at 144Hz!",
+          "likes": 25,
+          "dislikes": 0,
+          "images": [
+            "/images/laptop/mini-pc/6.avif"
+          ]
+        },
+        {
+          "reviewId": "r6",
+          "userName": "Rahul Gupta",
+          "date": "2024-05-22",
+          "rating": 4,
+          "description": "Colors are vibrant. Stand is a bit wobbly though.",
+          "likes": 9,
+          "dislikes": 3,
+          "images": []
+        },
+        {
+          "reviewId": "r7",
+          "userName": "Maya Nair",
+          "date": "2024-04-18",
+          "rating": 5,
+          "description": "Absolutely stunning curve—so immersive in racing games!",
+          "likes": 32,
+          "dislikes": 1,
+          "images": [
+            "/images/home/pcCategory/monitor2.avif"
+          ]
+        },
+        {
+          "reviewId": "r8",
+          "userName": "Vikram Das",
+          "date": "2024-03-30",
+          "rating": 4,
+          "description": "Overall solid monitor, but wish it had USB-C input.",
+          "likes": 6,
+          "dislikes": 2,
+          "images": []
+        },
+        {
+          "reviewId": "r9",
+          "userName": "Neha Jain",
+          "date": "2024-02-14",
+          "rating": 5,
+          "description": "Crystal clear at every angle—no washed‑out colors.",
+          "likes": 29,
+          "dislikes": 0,
+          "images": [
+            "/images/laptop/monitor.png",
+            "/images/home/pcCategory/demo.png"
+          ]
+        },
+        {
+          "reviewId": "r10",
+          "userName": "Siddharth Kulkarni",
+          "date": "2024-01-05",
+          "rating": 4,
+          "description": "Very responsive but the OSD brightness setting is limited.",
+          "likes": 11,
+          "dislikes": 4,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Apple iPhone 14 Pro Max",
+      "price": 887,
+      "originalPrice": 1100,
+      "sale": true,
+      "salePercent": 20,
+      "salesCount": 80,
+      "rating": 4.3,
+      "releaseDate": "2024-05-18",
+      "image": "/images/home/pcCategory/appleiphone.png",
+      "categoryId": 4,
+      "tabs": [
+        "latest-product",
+        "on-discount"
+      ],
+      "sliderImages": [
+        "/images/home/pcCategory/appleiphone.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/home/pcCategory/demo.png"
+      ],
+      "productDetails": "6.7” ProMotion OLED display, A16 Bionic chip, triple‑camera system.",
+      "badges": "5 In Stock",
+      "sku": "APL-IP14PM-256GB",
+      "estimatedDelivery": "24 - 28 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 850,
+      "shippingCost": "Free",
+      "category": "Phones",
+      "tags": [
+        "Smartphone",
+        "iOS",
+        "Pro Max"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Neha Jain",
+          "date": "2025-01-20",
+          "rating": 5,
+          "description": "Incredible camera quality and super smooth performance.",
+          "likes": 40,
+          "dislikes": 1,
+          "images": [
+            "/images/home/pcCategory/appleiphone.png"
+          ]
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Mohit Verma",
+          "date": "2024-12-02",
+          "rating": 4,
+          "description": "Love the speed, but wish battery lasted longer under heavy use.",
+          "likes": 18,
+          "dislikes": 4,
+          "images": [
+            "/images/home/pcCategory/appleiphone.png",
+            "/images/laptop/mini-pc/5.avif"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Acer KA270 G 27.5 Curved Monitor",
+      "price": 1660.65,
+      "originalPrice": 1674.59,
+      "sale": true,
+      "salePercent": 10,
+      "salesCount": 450,
+      "rating": 4.7,
+      "releaseDate": "2023-09-16",
+      "image": "/images/home/pcCategory/demo.png",
+      "categoryId": {
+        "id": 1,
+        "name": "Monitors",
+        "image": "/images/laptop/monitor.png"
+      },
+      "tabs": [
+        "top-rated",
+        "best-selling",
+        "on-discount"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "Curved VA panel, WQHD resolution, 165Hz refresh for ultra-smooth visuals.",
+      "badges": "18 In Stock",
+      "sku": "ACR-KA270-27.5",
+      "estimatedDelivery": "21 - 24 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 1500,
+      "shippingCost": "Free",
+      "category": "Monitor",
+      "tags": [
+        "Curved Monitor",
+        "Acer",
+        "WQHD"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Vikram Das",
+          "date": "2024-10-05",
+          "rating": 5,
+          "description": "Stunning curve and color depth—highly immersive!",
+          "likes": 22,
+          "dislikes": 0,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Lakshmi Rao",
+          "date": "2024-08-18",
+          "rating": 4,
+          "description": "Very good but stand wobble sometimes.",
+          "likes": 9,
+          "dislikes": 2,
+          "images": [
+            "/uploads/reviews/11/stand_issue.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "AirPods Pro",
+      "price": 169,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 210,
+      "rating": 4.4,
+      "releaseDate": "2022-03-01",
+      "image": "/images/home/pcCategory/audio.png",
+      "categoryId": 6,
+      "tabs": [
+        "top-rated",
+        "best-selling"
+      ],
+      "sliderImages": [
+        "/images/home/pcCategory/audio.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "Active Noise Cancellation, Transparency mode, up to 24h battery life.",
+      "badges": "Out Of Stock",
+      "sku": "APL-APPRO-2022",
+      "estimatedDelivery": "22 - 26 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 150,
+      "shippingCost": "Free",
+      "category": "Audio",
+      "tags": [
+        "Earbuds",
+        "Wireless",
+        "Noise Cancellation"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Rahul Sharma",
+          "date": "2023-11-10",
+          "rating": 5,
+          "description": "Fantastic noise cancellation and very comfortable fit!",
+          "likes": 34,
+          "dislikes": 2,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Sneha Gupta",
+          "date": "2024-04-18",
+          "rating": 4,
+          "description": "Great sound but battery life drops after extensive use.",
+          "likes": 12,
+          "dislikes": 3,
+          "images": [
+            "/images/home/pcCategory/audio.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Boult Audio W20",
+      "price": 779,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 45,
+      "rating": 4.1,
+      "releaseDate": "2023-01-12",
+      "image": "/images/laptop/mini-pc/5.avif",
+      "categoryId": 7,
+      "tabs": [
+        "best-selling",
+        "latest-product"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "Bluetooth 5.0, immersive bass, sweat & splash resistant design.",
+      "badges": "22 In Stock",
+      "sku": "BLT-AUD-W20",
+      "estimatedDelivery": "20 - 23 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 750,
+      "shippingCost": "Free",
+      "category": "Audio",
+      "tags": [
+        "Earbuds",
+        "Boult Audio",
+        "Bass Boost"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Anjali Rao",
+          "date": "2023-06-05",
+          "rating": 4,
+          "description": "Very punchy bass and secure fit for workouts.",
+          "likes": 18,
+          "dislikes": 1,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Karan Mehta",
+          "date": "2024-02-22",
+          "rating": 3,
+          "description": "Sound is good but the touch controls can be finicky.",
+          "likes": 7,
+          "dislikes": 2,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "BoAt Airdopes Ace Wireless",
+      "price": 688,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 60,
+      "rating": 4,
+      "releaseDate": "2022-07-30",
+      "image": "/images/home/pcCategory/demo.png",
+      "categoryId": 8,
+      "tabs": [
+        "on-discount"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/home/pcCategory/demo.png"
+      ],
+      "productDetails": "Ultra-comfort fit, touch controls, up to 25h playtime with case.",
+      "badges": "40 In Stock",
+      "sku": "BAT-AIR-ACE",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 600,
+      "shippingCost": "Free",
+      "category": "Audio",
+      "tags": [
+        "Wireless Earbuds",
+        "boAt",
+        "Long Battery"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Maya Nair",
+          "date": "2023-09-14",
+          "rating": 5,
+          "description": "Extremely comfy and the battery lasts forever!",
+          "likes": 29,
+          "dislikes": 0,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Vikram Das",
+          "date": "2024-01-30",
+          "rating": 4,
+          "description": "Good value, but bass could be deeper.",
+          "likes": 11,
+          "dislikes": 3,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Apple iPhone 16 Pro",
+      "price": 3169,
+      "originalPrice": 500,
+      "sale": true,
+      "salePercent": 0,
+      "salesCount": 210,
+      "rating": 4.4,
+      "releaseDate": "2022-03-01",
+      "image": "/images/home/pcCategory/appleiphone.png",
+      "categoryId": 6,
+      "tabs": [
+        "top-rated",
+        "best-selling"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "6.1” Super Retina XDR display, A18 chip, advanced camera system.",
+      "badges": "Out Of Stock",
+      "sku": "APL-IP16PR-128GB",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 500,
+      "shippingCost": "Free",
+      "category": "Phones",
+      "tags": [
+        "Smartphone",
+        "iOS",
+        "Pro"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Priya Singh",
+          "date": "2024-06-21",
+          "rating": 5,
+          "description": "Stunning display and blazing-fast performance!",
+          "likes": 47,
+          "dislikes": 2,
+          "images": [
+            "/images/home/pcCategory/appleiphone.png"
+          ]
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Rahul Gupta",
+          "date": "2024-08-03",
+          "rating": 4,
+          "description": "Great camera, but I miss the headphone jack.",
+          "likes": 15,
+          "dislikes": 4,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "ThinkPad E16 Gen 2",
+      "price": 7169,
+      "originalPrice": 2000,
+      "sale": true,
+      "salePercent": 0,
+      "salesCount": 210,
+      "rating": 4.4,
+      "releaseDate": "2022-03-01",
+      "image": "/images/home/pcCategory/demo.png",
+      "categoryId": 6,
+      "tabs": [
+        "top-rated",
+        "best-selling"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "16” FHD, Intel Core i7, robust build with spill-resistant keyboard.",
+      "badges": "12 In Stock",
+      "sku": "LEN-TP-E16G2",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 500,
+      "shippingCost": "Free",
+      "category": "Laptops",
+      "tags": [
+        "Business Laptop",
+        "Lenovo ThinkPad",
+        "Durable"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Lakshmi Rao",
+          "date": "2023-12-15",
+          "rating": 5,
+          "description": "Solid build quality and very reliable for work.",
+          "likes": 22,
+          "dislikes": 1,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Arjun Mehta",
+          "date": "2024-05-09",
+          "rating": 4,
+          "description": "Great keyboard and performance, though it's a bit heavy.",
+          "likes": 13,
+          "dislikes": 2,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Garmin Venu 3 Smartwatch",
+      "price": 349.99,
+      "originalPrice": 399.99,
+      "sale": true,
+      "salePercent": 12,
+      "salesCount": 120,
+      "rating": 4.6,
+      "releaseDate": "2025-03-20",
+      "image": "/images/home/pcCategory/watch.png",
+      "categoryId": 9,
+      "tabs": [
+        "top-rated",
+        "on-discount"
+      ],
+      "sliderImages": [
+        "/images/home/pcCategory/watch.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/home/pcCategory/watch.png",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "AMOLED display, advanced health metrics, up to 10 days battery life.",
+      "badges": "15 In Stock",
+      "sku": "GRM-VENU3-42MM",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 1000,
+      "shippingCost": "Free",
+      "category": "Watch",
+      "tags": [
+        "Smartwatch",
+        "Fitness",
+        "Garmin"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Anita Desai",
+          "date": "2025-04-10",
+          "rating": 5,
+          "description": "Battery easily lasts 9 days, and health stats are very accurate.",
+          "likes": 28,
+          "dislikes": 1,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Vikram Patel",
+          "date": "2025-05-05",
+          "rating": 4,
+          "description": "Great display clarity, though I wish the UI was a bit snappier.",
+          "likes": 12,
+          "dislikes": 3,
+          "images": [
+            "/images/home/pcCategory/watch.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "OnePlus 12 Pro 5G",
+      "price": 899,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 240,
+      "rating": 4.7,
+      "releaseDate": "2025-01-15",
+      "image": "/images/home/pcCategory/Tab.png",
+      "categoryId": 10,
+      "tabs": [
+        "latest-product",
+        "best-selling"
+      ],
+      "sliderImages": [
+        "/images/home/pcCategory/Tab.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/home/pcCategory/demo.png"
+      ],
+      "productDetails": "6.7” Fluid AMOLED, Snapdragon 8 Gen 3, 120W fast charging.",
+      "badges": "20 In Stock",
+      "sku": "OP-12PRO-5G",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 500,
+      "shippingCost": "Free",
+      "category": "Tabs",
+      "tags": [
+        "Smartphone",
+        "5G",
+        "OnePlus"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Riya Malhotra",
+          "date": "2025-02-20",
+          "rating": 5,
+          "description": "Fluid display and lightning-fast charging are game changers!",
+          "likes": 36,
+          "dislikes": 0,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Arjun Singh",
+          "date": "2025-03-05",
+          "rating": 4,
+          "description": "Excellent performance; camera is good but not class‑leading.",
+          "likes": 18,
+          "dislikes": 2,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Samsung QN90C Neo QLED TV",
+      "price": 1299.99,
+      "originalPrice": 1499.99,
+      "sale": true,
+      "salePercent": 13,
+      "salesCount": 75,
+      "rating": 4.8,
+      "releaseDate": "2024-12-01",
+      "image": "/images/home/pcCategory/demo.png",
+      "categoryId": {
+        "id": 1,
+        "name": "Monitors",
+        "image": "/images/laptop/monitor.png"
+      },
+      "tabs": [
+        "top-rated",
+        "on-discount"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "55” 4K UHD, Quantum HDR, Quantum Matrix Technology Pro.",
+      "badges": "8 In Stock",
+      "sku": "SMS-QN90C-55IN",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 1000,
+      "shippingCost": "Free",
+      "category": "TV",
+      "tags": [
+        "TV",
+        "Neo QLED",
+        "4K"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Deepa Menon",
+          "date": "2025-01-15",
+          "rating": 5,
+          "description": "Picture quality is breathtaking and blacks are truly deep.",
+          "likes": 43,
+          "dislikes": 1,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Kunal Deshpande",
+          "date": "2025-02-10",
+          "rating": 4,
+          "description": "Excellent brightness but remote control feels cheap.",
+          "likes": 16,
+          "dislikes": 3,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Logitech G915 TKL Wireless Keyboard",
+      "price": 199.99,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 180,
+      "rating": 4.5,
+      "releaseDate": "2023-08-10",
+      "image": "/images/laptop/mini-pc/2.avif",
+      "categoryId": 12,
+      "tabs": [
+        "best-selling",
+        "top-rated"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "Low-profile GL switches, LIGHTSPEED wireless, RGB per-key lighting.",
+      "badges": "22 In Stock",
+      "sku": "LOG-G915-TKL",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 1000,
+      "shippingCost": "Free",
+      "category": "Keyboard",
+      "tags": [
+        "Keyboard",
+        "Wireless",
+        "Gaming"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Rahul Chopra",
+          "date": "2024-11-20",
+          "rating": 5,
+          "description": "Ultra‑low profile switches feel amazing for typing.",
+          "likes": 30,
+          "dislikes": 0,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Shreya Iyer",
+          "date": "2025-03-12",
+          "rating": 4,
+          "description": "Great build and battery life, but keycaps can be slippery.",
+          "likes": 14,
+          "dislikes": 2,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Sony Alpha a7 IV Mirrorless Camera",
+      "price": 2499,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 60,
+      "rating": 4.9,
+      "releaseDate": "2023-10-28",
+      "image": "/images/home/pcCategory/camera.png",
+      "categoryId": 13,
+      "tabs": [
+        "top-rated",
+        "latest-product"
+      ],
+      "sliderImages": [
+        "/images/home/pcCategory/camera.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/laptop/mini-pc/6.avif"
+      ],
+      "productDetails": "33MP full-frame sensor, 4K/60p video, 10‑bit recording, in-body stabilization.",
+      "badges": "7 In Stock",
+      "sku": "SNY-A7IV-FF",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 1000,
+      "shippingCost": "Free",
+      "category": "Camera",
+      "tags": [
+        "Camera",
+        "Mirrorless",
+        "4K Video"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Pooja Nair",
+          "date": "2024-12-05",
+          "rating": 5,
+          "description": "Image quality is superb and video modes are versatile.",
+          "likes": 38,
+          "dislikes": 1,
+          "images": [
+            "/images/home/pcCategory/camera.png"
+          ]
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Siddharth Mehta",
+          "date": "2025-02-18",
+          "rating": 4,
+          "description": "Fantastic autofocus but a bit heavy for handheld use.",
+          "likes": 20,
+          "dislikes": 2,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Apple iPad Air (5th Gen)",
+      "price": 599,
+      "originalPrice": 649,
+      "sale": true,
+      "salePercent": 8,
+      "salesCount": 340,
+      "rating": 4.7,
+      "releaseDate": "2022-03-18",
+      "image": "/images/home/pcCategory/tablets.webp",
+      "categoryId": 14,
+      "tabs": [
+        "best-selling",
+        "on-discount"
+      ],
+      "sliderImages": [
+        "/images/laptop/monitor.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/home/pcCategory/demo.png"
+      ],
+      "productDetails": "10.9” Liquid Retina, M1 chip, Touch ID, USB‑C, Apple Pencil support.",
+      "badges": "18 In Stock",
+      "sku": "APL-IPAD-AIR-5",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 1000,
+      "shippingCost": "Free",
+      "category": "Tabs",
+      "tags": [
+        "Tablet",
+        "iOS",
+        "M1"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Sneha Roy",
+          "date": "2023-05-22",
+          "rating": 5,
+          "description": "M1 performance is incredible—apps run so smoothly, and display is gorgeous!",
+          "likes": 40,
+          "dislikes": 1,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Aditya Verma",
+          "date": "2024-02-14",
+          "rating": 4,
+          "description": "Lightweight and powerful, though I wish the stereo speakers were louder.",
+          "likes": 15,
+          "dislikes": 2,
+          "images": [
+            "/images/home/pcCategory/tablets.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "JBL Charge 5 Waterproof Speaker",
+      "price": 179.95,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 290,
+      "rating": 4.6,
+      "releaseDate": "2021-08-12",
+      "image": "/images/home/pcCategory/audio.png",
+      "categoryId": 15,
+      "tabs": [
+        "best-selling",
+        "top-rated"
+      ],
+      "sliderImages": [
+        "/images/home/pcCategory/audio.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/home/pcCategory/demo.png"
+      ],
+      "productDetails": "20 W output, 20h playtime, IP67 waterproof, USB‑C charging.",
+      "badges": "25 In Stock",
+      "sku": "JBL-CHR5-WP",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 1000,
+      "shippingCost": "Free",
+      "category": "Audio",
+      "tags": [
+        "Speaker",
+        "Portable",
+        "Waterproof"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Priya Nair",
+          "date": "2022-11-30",
+          "rating": 5,
+          "description": "Amazing bass and lasts all day at moderate volume. Perfect for outdoors!",
+          "likes": 33,
+          "dislikes": 1,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Rahul Joshi",
+          "date": "2023-07-18",
+          "rating": 4,
+          "description": "Great clarity, but charging port cover feels flimsy over time.",
+          "likes": 12,
+          "dislikes": 2,
+          "images": []
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Razer DeathAdder V2 Gaming Mouse",
+      "price": 69.99,
+      "originalPrice": null,
+      "sale": false,
+      "salePercent": 0,
+      "salesCount": 410,
+      "rating": 4.8,
+      "releaseDate": "2020-01-15",
+      "image": "/images/home/pcCategory/mouse.png",
+      "categoryId": 16,
+      "tabs": [
+        "top-rated",
+        "best-selling"
+      ],
+      "sliderImages": [
+        "/images/home/pcCategory/mouse.png",
+        "/images/laptop/mini-pc/5.avif",
+        "/images/laptop/mini-pc/2.avif",
+        "/images/home/pcCategory/mouse.png"
+      ],
+      "productDetails": "8,500 DPI optical sensor, 69 g lightweight frame, Speedflex cable.",
+      "badges": "Out Of Stock",
+      "sku": "RZR-DA-V2",
+      "estimatedDelivery": "21 - 25 May, 2025",
+      "freeShippingReturns": "On all order over",
+      "freeShipingPrice": 500,
+      "shippingCost": "Free",
+      "category": "Mouse",
+      "tags": [
+        "Mouse",
+        "Gaming",
+        "Razer"
+      ],
+      "reviews": [
+        {
+          "reviewId": "r1",
+          "userName": "Karan Singh",
+          "date": "2021-09-12",
+          "rating": 5,
+          "description": "Superb ergonomics and ultra-responsive clicks—ideal for long sessions.",
+          "likes": 28,
+          "dislikes": 1,
+          "images": []
+        },
+        {
+          "reviewId": "r2",
+          "userName": "Megha Sharma",
+          "date": "2022-06-25",
+          "rating": 4,
+          "description": "Lightweight and precise, though cable can get a bit stiff over time.",
+          "likes": 14,
+          "dislikes": 3,
+          "images": []
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Monitor",
+      "image": "/images/laptop/monitor.png"
+    },
+    {
+      "id": "2",
+      "name": "Laptops",
+      "image": "/images/home/pcCategory/demo.png"
+    },
+    {
+      "id": "3",
+      "name": "Tabs",
+      "image": "/images/home/pcCategory/Tab.png"
+    },
+    {
+      "id": "4",
+      "name": "Phones",
+      "image": "/images/home/pcCategory/appleiphone.png"
+    },
+    {
+      "id": "5",
+      "name": "Audio",
+      "image": "/images/home/pcCategory/audio.png"
+    },
+    {
+      "id": "6",
+      "name": "Camera",
+      "image": "/images/home/pcCategory/camera.png"
+    },
+    {
+      "id": "7",
+      "name": "Mouse",
+      "image": "/images/home/pcCategory/mouse.png"
+    },
+    {
+      "id": "8",
+      "name": "Watch",
+      "image": "/images/home/pcCategory/watch.png"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "password": "password123",
+      "confirmpassword": "password123",
+      "createdAt": "2025-01-10T09:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "password": "securepass",
+      "confirmpassword": "securepass",
+      "createdAt": "2025-03-22T14:15:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "adminpass",
+      "confirmpassword": "adminpass",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "83b5",
+      "username": "chendugadu143@gmail.com",
+      "email": "cs@gmail.com",
+      "password": "Ics@1023",
+      "date": "2025-05-21",
+      "time": "23:36:07",
+      "addresses": [
+        {
+          "id": "1750334133618",
+          "name": "chandu",
+          "mobile": "9902384383",
+          "pincode": "500081",
+          "locality": "KPHB",
+          "address": "Madhapur",
+          "city": "Madhapur",
+          "state": "Arunachal Pradesh",
+          "landmark": "",
+          "alternatePhone": "",
+          "label": "HOME"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        }
+      ],
+      "selectedAddressId": "1",
+      "firstName": "chandu",
+      "lastName": "sekhar",
+      "mobile": "7438903993",
+      "gender": "Male"
+    },
+    {
+      "id": "d54d",
+      "username": "sekhar",
+      "email": "sekhar@gmail.com",
+      "password": "okay@00",
+      "date": "2025-05-22",
+      "time": "07:33:39"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "Ajay",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "Ajay",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "Ajay",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "Ajay",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "Ajay",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "Ajay",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "Ajay",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "lokesh",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "lokesh",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        },
+        {
+          "name": "arun",
+          "pincode": "932983",
+          "label": "HOME",
+          "details": "Madhapur",
+          "id": "4"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "lokesh",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        },
+        {
+          "name": "arun",
+          "pincode": "932983",
+          "label": "HOME",
+          "details": "Madhapur",
+          "id": "4"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "lokesh",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        },
+        {
+          "name": "arun",
+          "pincode": "932983",
+          "label": "HOME",
+          "details": "Madhapur",
+          "id": "4"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "8e61",
+      "username": "guna",
+      "email": "sivayyaa@gmail.com",
+      "password": "243638",
+      "date": "2025-05-21",
+      "time": "23:43:16",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "YaseenAli",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        },
+        {
+          "name": "lokesh",
+          "pincode": "761002",
+          "label": "WORK",
+          "details": "Madhapur",
+          "id": "3"
+        },
+        {
+          "name": "arun",
+          "pincode": "932983",
+          "label": "HOME",
+          "details": "Madhapur",
+          "id": "4"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "83b5",
+      "username": "chendugadu143@gmail.com",
+      "email": "cs@gmail.com",
+      "password": "Ics@1023",
+      "date": "2025-05-21",
+      "time": "23:36:07",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "83b5",
+      "username": "chendugadu143@gmail.com",
+      "email": "cs@gmail.com",
+      "password": "Ics@1023",
+      "date": "2025-05-21",
+      "time": "23:36:07",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        }
+      ],
+      "selectedAddressId": "1"
+    },
+    {
+      "id": "83b5",
+      "username": "chendugadu143@gmail.com",
+      "email": "cs@gmail.com",
+      "password": "Ics@1023",
+      "date": "2025-05-21",
+      "time": "23:36:07",
+      "addresses": [
+        {
+          "id": "1",
+          "name": "Chandu",
+          "pincode": "500072",
+          "label": "HOME",
+          "details": "110, Madhavaram Nagar, Kukapally, Hyderabad"
+        },
+        {
+          "id": "2",
+          "name": "Chandrasekhar",
+          "pincode": "500081",
+          "label": "WORK",
+          "details": "DIGIT IT, Arunodaya"
+        }
+      ],
+      "selectedAddressId": "1"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": 1,
+      "items": [
+        {
+          "productId": 2,
+          "quantity": 2
+        },
+        {
+          "productId": 6,
+          "quantity": 1
+        }
+      ],
+      "total": 790,
+      "status": "processing",
+      "createdAt": "2025-05-15T12:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "items": [
+        {
+          "productId": 4,
+          "quantity": 1
+        }
+      ],
+      "total": 887,
+      "status": "completed",
+      "createdAt": "2025-05-10T08:45:00.000Z"
+    }
+  ],
+  "states": [
+    {
+      "name": "Andaman and Nicobar Islands",
+      "id": "1550"
+    },
+    {
+      "name": "Andhra Pradesh",
+      "id": "c436"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "id": "8041"
+    },
+    {
+      "name": "Assam",
+      "id": "c03b"
+    },
+    {
+      "name": "Bihar",
+      "id": "80f3"
+    },
+    {
+      "name": "Chandigarh",
+      "id": "edd9"
+    },
+    {
+      "name": "Chhattisgarh",
+      "id": "a5c8"
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "id": "3be1"
+    },
+    {
+      "name": "Delhi",
+      "id": "2a02"
+    },
+    {
+      "name": "Goa",
+      "id": "617a"
+    },
+    {
+      "name": "Gujarat",
+      "id": "3880"
+    },
+    {
+      "name": "Haryana",
+      "id": "f9b5"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "id": "6e22"
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "id": "4a07"
+    },
+    {
+      "name": "Jharkhand",
+      "id": "a72d"
+    },
+    {
+      "name": "Karnataka",
+      "id": "6755"
+    },
+    {
+      "name": "Kerala",
+      "id": "3ff9"
+    },
+    {
+      "name": "Ladakh",
+      "id": "bf7b"
+    },
+    {
+      "name": "Lakshadweep",
+      "id": "886f"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "id": "d80c"
+    },
+    {
+      "name": "Maharashtra",
+      "id": "b875"
+    },
+    {
+      "name": "Manipur",
+      "id": "e992"
+    },
+    {
+      "name": "Meghalaya",
+      "id": "6471"
+    },
+    {
+      "name": "Mizoram",
+      "id": "7914"
+    },
+    {
+      "name": "Nagaland",
+      "id": "4a1f"
+    },
+    {
+      "name": "Odisha",
+      "id": "f8b9"
+    },
+    {
+      "name": "Puducherry",
+      "id": "90d0"
+    },
+    {
+      "name": "Punjab",
+      "id": "14c5"
+    },
+    {
+      "name": "Rajasthan",
+      "id": "4f1e"
+    },
+    {
+      "name": "Sikkim",
+      "id": "7a60"
+    },
+    {
+      "name": "Tamil Nadu",
+      "id": "dcbd"
+    },
+    {
+      "name": "Telangana",
+      "id": "ae22"
+    },
+    {
+      "name": "Tripura",
+      "id": "4e4e"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "id": "73cb"
+    },
+    {
+      "name": "Uttarakhand",
+      "id": "d569"
+    },
+    {
+      "name": "West Bengal",
+      "id": "5a4d"
+    }
+  ]
+}

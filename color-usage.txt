@@ -1,0 +1,72 @@
+﻿
+src\app\(business-site)\site\home\popular-products\PopularProducts.js:244:          background: #f1f1f1;
+src\app\(business-site)\site\home\popular-products\PopularProducts.js:249:          background: #888;
+src\app\(business-site)\site\home\popular-products\PopularProducts.js:254:          background: #555;
+src\app\(business-site)\site\shop\page.js:135://             className="flex items-center text-[#666] text-xs 
+hover:text-primary transition-colors"
+src\app\(business-site)\site\shop\page.js:160://           <h3 className="text-sm font-bold text-[#333] 
+mb-2">Categories</h3>
+src\app\(business-site)\site\shop\page.js:163://               <label key={cat} className="flex items-center 
+space-x-2 text-[#333] text-xs">
+src\app\(business-site)\site\shop\page.js:174://                   className="form-checkbox h-4 w-4 text-[#007BFF]"
+src\app\(business-site)\site\shop\page.js:186://           <h3 className="text-sm font-bold text-[#333] 
+mb-2">Price</h3>
+src\app\(business-site)\site\shop\page.js:187://           <div ref={trackRef} className="relative h-2 bg-[#E0E0E0] 
+rounded">
+src\app\(business-site)\site\shop\page.js:190://               className="absolute h-2 bg-[#007BFF] rounded"
+src\app\(business-site)\site\shop\page.js:198://               className="absolute w-4 h-4 bg-white border-2 
+border-[#007BFF] rounded-full -top-1 cursor-pointer"
+src\app\(business-site)\site\shop\page.js:204://               className="absolute w-4 h-4 bg-white border-2 
+border-[#007BFF] rounded-full -top-1 cursor-pointer"
+src\app\(business-site)\site\shop\page.js:209://           <p className="text-[#666] text-xs mt-2">
+src\app\(business-site)\site\shop\page.js:229://                       ? 'bg-[#007BFF] text-white'
+src\app\(business-site)\site\shop\page.js:230://                       : 'border-[#007BFF] text-[#007BFF] 
+hover:bg-[#007BFF] hover:text-white'
+src\app\(business-site)\site\shop\page.js:258://             <span className="text-[#666] text-xs">
+src\app\(business-site)\site\shop\page.js:264://               className="border border-[#007BFF] text-[#333] 
+text-xs p-1 rounded focus:outline-none focus:ring-2 focus:ring-[#007BFF]"
+src\app\(business-site)\site\shop\page.js:421://             className="flex items-center text-[#666] text-xs 
+hover:text-primary transition-colors"
+src\app\(business-site)\site\shop\page.js:538://                       ? 'bg-[#007BFF] text-white'
+src\app\(business-site)\site\shop\page.js:539://                       : 'border-[#007BFF] text-[#007BFF] 
+hover:bg-[#007BFF] hover:text-white'
+src\app\(business-site)\site\shop\page.js:567://             <span className="text-[#666] text-xs">
+src\app\(business-site)\site\shop\page.js:573://               className="border border-primary text-[#333] text-xs 
+p-1 rounded focus:outline-none focus:ring-2 focus:ring-primary"
+src\app\globals.css:21:  --color-primary: #f50963 !important;
+src\app\globals.css:22:  --color-muted: #6B7280 !important;
+src\app\globals.css:23:  --color-secondary: #0A111E !important;
+src\app\globals.css:24:  --color-hero:#f0f2ee !important;
+src\app\globals.css:164:	color: #e6e6e6 !important;
+src\components\common\AlertBanner.js:137://     <div  className="w-full bg-gradient-to-r from-secondary 
+via-[#283041] to-secondary  py-1.5 px-4 shadow-lg z-50">
+src\components\common\AlertBanner.js:186://     <div  className="w-full bg-gradient-to-r from-secondary 
+via-[#283041] to-secondary  py-1.5 px-4 shadow-lg z-50">
+src\components\common\AlertBanner.js:243:    <div className="w-full bg-gradient-to-r from-secondary via-[#283041] 
+to-secondary py-1.5 px-4 shadow-lg z-50">
+src\components\common\Footer.js:236:                        group-hover:text-[#1877F2] group-hover:scale-125"
+src\components\common\Footer.js:243:                        group-hover:text-[#25D366] group-hover:scale-125"
+src\components\common\Footer.js:250:                        group-hover:text-[#E4405F] group-hover:scale-125"
+src\components\common\Footer.js:257:                        group-hover:text-[#BD081C] group-hover:scale-125"
+src\components\common\Footer.js:264:                        group-hover:text-[#1DA1F2] group-hover:scale-125"
+src\components\common\ScrollToTop.js:52:          stroke="#fff"      /* gray-200 */
+src\components\common\ScrollToTop.js:61:          stroke="#f50963"      /* pink */
+src\components\site-sections\shared-sections\ProductListItem.js:10:     className="flex bg-white cursor-pointer 
+shadow-md mb-2 rounded-lg p-4 border border-[#E0E0E0]">
+src\components\site-sections\shared-sections\ProductListItem.js:23:        <p className="text-[#666666] text-[10px] 
+uppercase">{product.category}</p>
+src\components\site-sections\shared-sections\ProductListItem.js:24:        <h3 className="text-[#333333] text-sm 
+font-bold">{product.name}</h3>
+src\components\site-sections\shared-sections\ProductListItem.js:29:              className={`w-3 h-3 ${i < 
+Math.round(product.rating) ? 'text-[#FFC107]' : 'text-gray-300'}`}
+src\components\site-sections\shared-sections\ProductListItem.js:36:          <span className="text-[#666666] text-xs 
+ml-1">({product.rating})</span>
+src\components\site-sections\shared-sections\ProductListItem.js:38:          <p className="text-[#333333] text-base 
+font-bold mt-1">
+src\components\site-sections\shared-sections\ProductListItem.js:41:            <span className="text-[#666666] 
+text-xs line-through ml-2">${product.originalPrice.toFixed(2)}</span>
+src\components\site-sections\shared-sections\ProductListItem.js:45:          <p className="text-[#666666] text-xs 
+mt-1">{product.productDetails}</p>
+src\components\site-sections\shared-sections\SiteBreadCrumb.js:21:    <circle cx="5" cy="5" r="3" fill="#f50963" />
+
+
